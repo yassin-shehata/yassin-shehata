@@ -4,7 +4,7 @@
 
 ⚙️ I'm working on projects that involve embedded systems and firmware development, areas I'm passionate about and always looking to grow in!
 
-⚡ I'm currently building an AI-powered website to help create schedules and optimize time management.
+⚡ I'm currently building a portfolio website as a personal project.
 
 
 Reach out anytime: 
