@@ -4,7 +4,7 @@
 
 ⚙️ I'm working on projects that involve embedded systems and firmware development, areas I'm passionate about and always looking to grow in!
 
-⚡ I'm currently building a portfolio website as a personal project.
+⚡ I'm currently in the process of building an RC car from scratch.
 
 
 Reach out anytime: 
