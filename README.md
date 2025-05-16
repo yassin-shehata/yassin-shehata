@@ -4,7 +4,7 @@
 
 ⚙️ I'm working on projects that involve embedded systems and firmware development, areas I'm passionate about and always looking to grow in!
 
-⚡ I'm currently in the process of building an RC car from scratch.
+⚡ Working on designing the SAL App!!
 
 
 Reach out anytime: 
