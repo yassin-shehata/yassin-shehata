@@ -4,7 +4,7 @@
 
 ⚙️ I'm working on projects that involve embedded systems and firmware development, areas I'm passionate about and always looking to grow in!
 
-⚡ Working on designing the SAL App!!
+⚡ Currently working on something huge!!
 
 
 Reach out anytime: 
