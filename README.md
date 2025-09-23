@@ -4,7 +4,7 @@
 
 ⚙️ I'm working on projects that involve embedded systems and firmware development, areas I'm passionate about and always looking to grow in!
 
-⚡ Currently working on something huge!!
+⚡ Work iin Progress!!
 
 
 Reach out anytime: 
