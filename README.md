@@ -1,10 +1,10 @@
 ## Hi there, I'm Yassin 👋
 
- I'm currently studying Electrical and Computer Engineering at the University of Calgary.
+ I'm currently studying Electrical and Computer Engineering at the University of Calgary. ⚡
+
 
  I'm working on projects that involve embedded systems and firmware development, areas I'm passionate about and always looking to grow in!
 
-⚡ Currently working on something big!!
 
 
 Reach out anytime: 
